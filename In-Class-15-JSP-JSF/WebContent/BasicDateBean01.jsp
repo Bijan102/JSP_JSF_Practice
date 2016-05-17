@@ -8,7 +8,7 @@
 <h1>The BasicDateBean</h1><hr>
 
 <%-- Using a Java Bean; uncomment the line below to run --%>
-<%-- <jsp:useBean id="now" class="beans.BasicDateBean" /> --%>
+<jsp:useBean id="now" class="beans.BasicDateBean" />
 
 <%-- Displaying the bean properties --%>
 On the server the date is : 
