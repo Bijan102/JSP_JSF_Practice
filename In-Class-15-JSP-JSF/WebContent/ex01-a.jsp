@@ -7,10 +7,7 @@
 <meta charset=utf-8">
 <title>CS 272 Random Color Exercise</title>
 </head>
-<% String color = request.getParameter("bg");
-	if (color == null) color = utils.ColorUtils.randomColor();
-%>
-<body style='background-color:<%= color %>;'>
+<body style='background-color:<%= ColorUtils.randomColor()%>;'>
 <h1>CS 272 Random Color Exercise</h1>
 </body>
 </html>
