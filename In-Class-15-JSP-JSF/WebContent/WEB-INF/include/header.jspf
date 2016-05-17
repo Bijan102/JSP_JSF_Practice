@@ -1,0 +1,21 @@
+<!-- header01 -- the included cis/cs banner -->
+<center>
+<table border="0" cellspacing="0" cellpadding="0" width="600" >
+<tr>
+    <td><img SRC="images/occ_logo2.gif"
+                      width="53" height="53"></td>
+    <td BGCOLOR="#000099">
+        <center>
+        <font face="Comic Sans MS,Arial,Helvetica">
+        <font color="#FFFFFF">
+        <font size=+1>
+            Computer Information Systems and Computer Science
+        </font>
+        </font>
+        </font>
+        </center>
+    </td>
+    <td width="53">&nbsp;</td>
+</tr>
+</table>
+</center>

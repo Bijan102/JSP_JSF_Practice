@@ -1,0 +1,19 @@
+<font size="-1">
+<center>
+<hr>
+<a href="Surf.jsp">
+<b>Steve's Surf Stuff</b>
+</a>
+<hr>
+</center>
+
+<li><a href="Surf.jsp?title=Boards&content=boards">
+    Surfboards</a>
+<li><a href="Surf.jsp?title=Accessories&content=accessories">
+    Accessories</a>
+<li><a href="Surf.jsp?title=Clothing&content=clothing">
+    Clothing</a>
+<br>
+
+<hr>
+</font>
